@@ -73,4 +73,4 @@ class Ui_Form(object):
         self.groupBox.setTitle(_translate("Form", "选择模式"))
         self.pushButton.setText(_translate("Form", "上传文件"))
         self.pushButton_2.setText(_translate("Form", "下载文件"))
-
+# 本文件是由qt生成ui文件后转换为的py文件
