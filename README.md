@@ -1,0 +1,2 @@
+# filetransfer
+这是一个有python编写的局域网图形界面文件传输工具
