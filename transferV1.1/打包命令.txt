@@ -1,0 +1,1 @@
+pyinstaller -p C:\ProgramData\Anaconda3\pkgs\qt-5.9.6-vc14h1e9a669_2\Library\bin -Fw --icon=1.ico filetrans_logic.py
